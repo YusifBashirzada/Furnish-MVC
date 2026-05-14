@@ -397,3 +397,4 @@ C:\Users\Classtime.PC_6_213_9\Desktop\Yusif\Furnish-MVC\Furnish\bin\Debug\net8.0
 C:\Users\Classtime.PC_6_213_9\Desktop\Yusif\Furnish-MVC\Furnish\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Classtime.PC_6_213_9\Desktop\Yusif\Furnish-MVC\Furnish\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Classtime.PC_6_213_9\Desktop\Yusif\Furnish-MVC\Furnish\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Classtime.PC_6_213_9\Desktop\Yusif\Furnish-MVC\Furnish\obj\Debug\net8.0\Furnish.sourcelink.json

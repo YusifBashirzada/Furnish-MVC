@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Furnish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936f8126b7058a5d02f37441747548b2695d3320")]
 [assembly: System.Reflection.AssemblyProductAttribute("Furnish")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Furnish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

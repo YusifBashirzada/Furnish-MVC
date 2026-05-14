@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="~/admin/css/style.css">
     <!-- endinject -->
     <link rel="shortcut icon" href="~/admin/images/favicon.png" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
 <body>
     <div class="container-scroller">
@@ -187,7 +188,7 @@
             <nav class="sidebar sidebar-offcanvas" id="sidebar">
                 <ul class="nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">
+                        <a class="nav-link" asp-controller="dashboard" asp-action="index">
                             <i class="mdi mdi-home menu-icon"></i>
                             <span class="menu-title">Dashboard</span>
                         </a>
@@ -200,9 +201,9 @@
                         </a>
                         <div class="collapse" id="ui-basic">
                             <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/buttons.html">Slider</a></li>
-                                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/typography.html">Products</a></li>
-                                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/typography.html">Categories</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="slider" asp-action="index">Slider</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="product" asp-action="index">Products</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-controller="category" asp-action="index">Categories</a></li>
                             </ul>
                         </div>
                     </li>
@@ -294,6 +295,7 @@
     <script src="~/admin/js/dataTables.bootstrap4.js"></script>
     <!-- End custom js for this page-->
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <script src="~/admin/js/jquery.cookie.js" type="text/javascript"></script>
 </body>
 
