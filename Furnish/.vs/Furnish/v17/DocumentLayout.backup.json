@@ -3,56 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\areas\\adminpanel\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|solutionrelative:areas\\adminpanel\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{938D6B5E-C56A-44D7-AAB3-97E07267CEA8}|Furnish.csproj|c:\\users\\classtime.pc_6_213_9\\desktop\\yusif\\furnish-mvc\\furnish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,180 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:17:29.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Detail.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:15:27.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:07:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T09:51:52.076Z",
+              "WhenOpened": "2026-05-15T08:04:52.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:50:45.849Z",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T08:14:44.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T09:49:05.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T09:48:16.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
               "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T09:48:56.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:48:33.708Z",
+              "WhenOpened": "2026-05-15T08:04:37.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAAACkBAADUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T09:25:19.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:13:01.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:01:38.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-14T09:12:04.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:02:10.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:02:00.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T09:01:51.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_9\\Desktop\\Yusif\\Furnish-MVC\\Furnish\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

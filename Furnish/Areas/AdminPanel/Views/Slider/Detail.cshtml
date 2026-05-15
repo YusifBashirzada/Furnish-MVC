@@ -1,0 +1,81 @@
+﻿@using Furnish.Models
+@model Slider
+
+<div class="row">
+    <div class="col-lg-10 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h4 class="card-title text-primary" style="margin: 0;">Slider Details: @Model.Name</h4>
+                    <a asp-action="index" class="btn btn-secondary btn-sm">Return to List</a>
+                </div>
+
+                <div class="row">
+                    @* Şəkil Hissəsi *@
+                    <div class="col-md-6">
+                        <div class="image-container border rounded p-2 bg-light">
+                            @if (Model.Image != null && (Model.Image.StartsWith("http://") || Model.Image.StartsWith("https://")))
+                            {
+                                <img src="@Model.Image" alt="@Model.Name" class="img-fluid rounded" style="width: 100%; height: auto; object-fit: cover;" />
+                            }
+                            else
+                            {
+                                <img src="~/assets/images/website-images/@Model.Image" alt="@Model.Name" class="img-fluid rounded" style="width: 100%; height: auto; object-fit: cover;" />
+                            }
+                        </div>
+                    </div>
+
+                    @* Məlumat Hissəsi *@
+                    <div class="col-md-6">
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr>
+                                        <th class="bg-light" style="width: 30%;">Name</th>
+                                        <td>@Model.Name</td>
+                                    </tr>
+                                    <tr>
+                                        <th class="bg-light">Price</th>
+                                        <td class="text-success font-weight-bold">$@Model.Price</td>
+                                    </tr>
+                                    <tr>
+                                        <th class="bg-light">Discount</th>
+                                        <td class="text-danger">%@Model.Discount</td>
+                                    </tr>
+                                    <tr>
+                                        <th class="bg-light">Description</th>
+                                        <td style="white-space: normal; line-height: 1.6;">
+                                            @Model.Description
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th class="bg-light">Status</th>
+                                        <td>
+                                            @if (Model.isDeleted)
+                                            {
+                                                <label class="badge badge-danger">Deleted</label>
+                                            }
+                                            else
+                                            {
+                                                <label class="badge badge-success">Active on Site</label>
+                                            }
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="mt-4 d-flex gap-2">
+                            <a asp-action="update" asp-route-id="@Model.id" class="btn btn-warning text-white">
+                                <i class="mdi mdi-pencil"></i> Edit Slider
+                            </a>
+                            <form asp-action="delete" asp-route-id="@Model.id" method="post" onsubmit="return confirm('Are you sure?');">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
